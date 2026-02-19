@@ -1,0 +1,11 @@
+City,PostcodeArea,AverageRent,DemandLevel
+Manchester,M14,550,High
+Manchester,M1,1100,Very High
+London,E1,950,Very High
+London,SE1,1200,High
+Birmingham,B29,480,Medium
+Leeds,LS6,500,High
+Liverpool,L7,420,Medium
+Sheffield,S10,460,Medium
+Bristol,BS6,650,High
+Nottingham,NG7,490,Medium
